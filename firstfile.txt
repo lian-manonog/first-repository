@@ -1,0 +1,3 @@
+1.1 introduction - Git and Github for poet
+Testing and following this video
+created this file
